@@ -1,4 +1,5 @@
 build
+
 .pytest*
 pilco.egg-info
 __pycache__
@@ -6,3 +7,5 @@ __pycache__
 octave-workspace
 *.egg
 examples/.ipynb_checkpoints/
+MUJOCO_LOG.TXT
+.idea
